@@ -1,0 +1,7 @@
+<!-- <view class="nav">
+  <view class="nav-item">拉取要求</view>
+  <view class="nav-item">个人</view>
+  <view class="nav-item">下载</view>
+  <view class="nav-item">搜索</view>
+</view> -->
+<view hidden="{{1 < 2 ? 1 : 2}}"> hidden </view>
