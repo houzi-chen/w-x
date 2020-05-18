@@ -1,0 +1,10 @@
+<view>计程车车费</view>
+<view wx:if="{{mile <= 3}}">
+  {{10}}
+</view>
+<view wx:elif="{{mile <= 10}}">
+  {{10 + (mile - 3) * 2}}
+</view>
+<view wx:else>
+  {{10 + 14 + (mile - 10) * 3}}
+</view>

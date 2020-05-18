@@ -1,0 +1,12 @@
+<!--pages/for/for.wxml-->
+<text>for实现导航栏</text>
+<view class="nav">
+  <view wx:for="{{navs}}" class="nav-item" wx:key="index">
+    {{index}} : {{item}}
+  </view>
+</view>
+<view class="nav">
+  <view wx:for="{{navsObject}}" class="nav-item" wx:key="index">
+    {{index}} : {{item.text}}
+  </view>
+</view>

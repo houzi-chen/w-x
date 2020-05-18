@@ -1,0 +1,44 @@
+<!--pages/ldh/ldh.wxml-->
+<view>
+  <text>中文名：</text><text>{{chinese}}</text>
+</view>
+<view>
+  <text>外文名：</text><text>{{foreign}}</text>
+</view>
+<view>
+  <text>别名：</text><text>{{alias}}</text>
+</view>
+<view>
+  <text>国籍：</text><text>{{nationality}}</text>
+</view>
+<view>
+  <text>民族：</text><text>{{nation}}</text>
+</view>
+<view>
+  <text>星座：</text><text>{{xz}}</text>
+</view>
+<view>
+  <text>血型：</text><text>{{blood}}</text>
+</view>
+<view>
+  <text>身高：</text><text>{{tall}}</text>
+</view>
+<view>
+  <text>体重：</text><text>{{weight}}</text>
+</view>
+<view>
+  <text>出生地：</text><text>{{adress}}</text>
+</view>
+<view>
+  <text>出生日期：</text><text>{{date}}</text>
+</view>
+
+  
+  
+  
+  
+  
+  
+  
+  
+  

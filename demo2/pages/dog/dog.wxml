@@ -1,0 +1,7 @@
+<view>狗的年龄转换为人的年龄</view>
+<view wx:if="{{dog_age <= 2}}">
+  {{dog_age * 10.5}}
+</view>
+<view wx:else>
+  {{21 + (dog_age - 2) * 4}}
+</view>

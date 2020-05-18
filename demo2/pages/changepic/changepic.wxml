@@ -1,0 +1,8 @@
+<!--pages/changepic/changepic.wxml-->
+<button bindtap="handleChange">切换</button>
+<image src="{{image_url}}"></image>
+<!-- 传参 data-xxx-->
+<button bindtap="handleClickWithParams"
+  data-id="001"
+  data-num="100"
+>传参</button>

@@ -1,0 +1,12 @@
+/* pages/for/for.wxss */
+.nav {
+  display: flex;
+  background-color: black;
+  color: white;
+}
+.nav-item {
+  flex: 1;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}

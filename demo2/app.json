@@ -1,0 +1,20 @@
+{
+  "pages":[
+    "pages/price/price",
+    "pages/for/for",
+    "pages/ldh/ldh",
+    "pages/changepic/changepic",
+    "pages/dog/dog",
+    "pages/jjiu/jjiu",
+    "pages/index/index",
+    "pages/logs/logs"
+  ],
+  "window":{
+    "backgroundTextStyle":"light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "WeChat",
+    "navigationBarTextStyle":"black"
+  },
+  "style": "v2",
+  "sitemapLocation": "sitemap.json"
+}
